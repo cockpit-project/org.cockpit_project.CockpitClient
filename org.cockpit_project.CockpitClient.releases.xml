@@ -1,6 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <component>
   <releases>
+    <release version="334" date="2025-02-27">
+      <url type="details">https://cockpit-project.org/blog/cockpit-334.html</url>
+      <description>
+        <p>Changes in Cockpit 334:</p>
+        <ul>
+          <li>https://issues.redhat.com/browse/RHEL-32834</li>
+        </ul>
+      </description>
+    </release>
     <release version="333" date="2025-02-13">
       <url type="details">https://cockpit-project.org/blog/cockpit-333.html</url>
       <description>

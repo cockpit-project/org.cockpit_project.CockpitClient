@@ -33,8 +33,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/cockpit-project/cockpit/releases/download/333/cockpit-333.tar.xz",
-          "sha256": "6d6ae566cfa8ce80d7865f7fc49faf4ff69d85c53f59593f28d7b1e9563dd6eb"
+          "url": "https://github.com/cockpit-project/cockpit/releases/download/334/cockpit-334.tar.xz",
+          "sha256": "fcc78fe10ea155a35dd3c8570e418b4f9f7c1aa95132330125b645fd99bb1829"
         },
         {
           "type": "file",
@@ -51,8 +51,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/cockpit-project/cockpit-files/releases/download/16/cockpit-files-16.tar.xz",
-          "sha256": "a4dc684703d983502972cdaaad2857ed0b3f728492e82eab0877d02f845089ed"
+          "url": "https://github.com/cockpit-project/cockpit-files/releases/download/17/cockpit-files-17.tar.xz",
+          "sha256": "26a02f7f78f40e445e79b30ebb8e1fe5fa248e10efee0b6013c818e60f5548ba"
         }
       ]
     },
@@ -65,8 +65,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/cockpit-project/cockpit-machines/releases/download/327/cockpit-machines-327.tar.xz",
-          "sha256": "6c61ec925cb61e69b393ca49dbbcba60287123c746ff3bb91783002e7914a643"
+          "url": "https://github.com/cockpit-project/cockpit-machines/releases/download/328/cockpit-machines-328.tar.xz",
+          "sha256": "3a98357879c171ef67a1bb1b6fb488218ed46677e471f15f85ee01d2941b97c7"
         }
       ]
     },
@@ -93,8 +93,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/cockpit-project/cockpit-podman/releases/download/101/cockpit-podman-101.tar.xz",
-          "sha256": "49da30ee6859cdaf3011ddb272287c3612bf4f35bf0eb9501a4359a02a4de721"
+          "url": "https://github.com/cockpit-project/cockpit-podman/releases/download/102/cockpit-podman-102.tar.xz",
+          "sha256": "feec82aa2cf3dc0f8623266baf77fe3a8f55436908c60c45948fb88e0bc2fb70"
         }
       ]
     }
