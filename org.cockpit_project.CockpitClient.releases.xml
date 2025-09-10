@@ -1,6 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <component>
   <releases>
+    <release version="345.1" date="2025-09-10">
+      <url type="details">https://cockpit-project.org/blog/cockpit-345.1.html</url>
+      <description>
+        <p>Changes in Cockpit 345.1:</p>
+        <ul>
+          <li>storage: Fix dropdown menus hidden behind non-scrollable content (rhbz#2388785)</li>
+        </ul>
+      </description>
+    </release>
     <release version="346" date="2025-09-03">
       <url type="details">https://cockpit-project.org/blog/cockpit-346.html</url>
       <description>
