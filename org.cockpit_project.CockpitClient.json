@@ -33,8 +33,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/cockpit-project/cockpit/releases/download/346/cockpit-346.tar.xz",
-          "sha256": "618c92cbbeb9265ff6bdf172ed8ea837ce6085ab936bd7a735abc8f661a01de1"
+          "url": "https://github.com/cockpit-project/cockpit/releases/download/345.2/cockpit-345.2.tar.xz",
+          "sha256": "36e1f72acb0683e1eee6475000985b50a5160fe5554265e57c6dbad1865e0e0e"
         },
         {
           "type": "file",
