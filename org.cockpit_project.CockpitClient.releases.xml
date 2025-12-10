@@ -1,6 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <component>
   <releases>
+    <release version="353" date="2025-12-10">
+      <url type="details">https://cockpit-project.org/blog/cockpit-353.html</url>
+      <description>
+        <p>Changes in Cockpit 353:</p>
+        <ul>
+          <li>Networking: Suggest prefix length and gateway address</li>
+          <li>Bug fixes and translation updates</li>
+        </ul>
+      </description>
+    </release>
     <release version="352" date="2025-11-27">
       <url type="details">https://cockpit-project.org/blog/cockpit-352.html</url>
       <description>
