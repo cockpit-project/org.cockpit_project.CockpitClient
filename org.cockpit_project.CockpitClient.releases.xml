@@ -1,6 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <component>
   <releases>
+    <release version="366" date="2026-08-13">
+      <url type="details">https://cockpit-project.org/blog/cockpit-366.html</url>
+      <description>
+        <p>Changes in Cockpit 366:</p>
+        <ul>
+          <li>Networkmanager: Don't activate new network connections by default</li>
+          <li>Networkmanager: Navigate to details page after creation</li>
+          <li>Translations and dependency updates</li>
+        </ul>
+      </description>
+    </release>
     <release version="365" date="2026-07-30">
       <url type="details">https://cockpit-project.org/blog/cockpit-365.html</url>
       <description>
