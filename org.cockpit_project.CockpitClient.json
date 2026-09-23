@@ -33,8 +33,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/cockpit-project/cockpit/releases/download/367/cockpit-367.tar.xz",
-          "sha256": "b29cb94ed43469196707c7f2100487fb71649a46767f8ccb1210356e0a9dd042"
+          "url": "https://github.com/cockpit-project/cockpit/releases/download/366.1/cockpit-366.1.tar.xz",
+          "sha256": "514723bdac652ec1fb55d0288ae775799e784708f34a5db66b9d8984c4ac4735"
         },
         {
           "type": "file",
@@ -51,8 +51,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/cockpit-project/cockpit-files/releases/download/44/cockpit-files-44.tar.xz",
-          "sha256": "47c6a2cca4d3398ea8e845963f80460201d4d7e94ac19e7e64410d760ef4e39b"
+          "url": "https://github.com/cockpit-project/cockpit-files/releases/download/43.1/cockpit-files-43.1.tar.xz",
+          "sha256": "c0d8e7d2e4378e22f006f7d916e9fa0702465c31f841d0c9d53df5c565cab8a5"
         }
       ]
     },
@@ -65,8 +65,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/cockpit-project/cockpit-machines/releases/download/356/cockpit-machines-356.tar.xz",
-          "sha256": "9a8afda8b784222b55996e321f92a2038f0880219c365138dfa9b265afd6c8b1"
+          "url": "https://github.com/cockpit-project/cockpit-machines/releases/download/355.1/cockpit-machines-355.1.tar.xz",
+          "sha256": "64a41fc70eb1e2849e195bb2b34db984d179eb6ec3361e9a158e9f5aafba5cbb"
         }
       ]
     },

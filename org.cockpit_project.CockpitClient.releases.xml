@@ -1,6 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <component>
   <releases>
+    <release version="366.1" date="2026-09-23">
+      <url type="details">https://cockpit-project.org/blog/cockpit-366.1.html</url>
+      <description>
+        <p>Changes in Cockpit 366.1:</p>
+        <ul>
+          <li>Fixes for CVE-2026-91147, CVE-2026-91149, CVE-2026-76235, CVE-2026-91148</li>
+          <li>Resolves: RHEL-244638, RHEL-262967, RHEL-263075 (rhel-9.9.z)</li>
+          <li>Resolves: RHEL-262968, RHEL-263072, RHEL-244641 (rhel-10.3.z)</li>
+        </ul>
+      </description>
+    </release>
     <release version="367" date="2026-08-27">
       <url type="details">https://cockpit-project.org/blog/cockpit-367.html</url>
       <description>
